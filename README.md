@@ -10,11 +10,30 @@ In this simulation our robots are having following discrete action space
         Action Space (The Picker Robots) = {Goal and Shelf Locations}
 
 
-
-
-
 #### 2D Layout of the Warehouse
 <img width="619" alt="Screenshot 2025-05-15 at 11 14 55 PM" src="https://github.com/user-attachments/assets/0be3cb27-c881-44e2-8e23-81ce9a19dbed" />
+
+### Installation
+
+
+       git clone gh repo clone IshanMahesh/Learning-Driven-Dispatching-and-Routing-Optimization-for-AGVs-in-Stochastic-Warehouse-Systems-
+       cd Learning-Driven-Dispatching-and-Routing-Optimization-for-AGVs-in-Stochastic-Warehouse-Systems-
+       pip install -e .
+
+
+
+       pip install tarware
+       pip install gymnasium 
+       gymnasium --version
+
+
+### Running
+
+
+       python scripts/run_heuristic.py --num_episodes=10000 --seed=0 --render
+
+
+       
 
 
 
