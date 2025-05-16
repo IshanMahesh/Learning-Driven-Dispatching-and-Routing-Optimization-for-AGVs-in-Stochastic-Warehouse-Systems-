@@ -9,6 +9,10 @@ In this simulation our robots are having following discrete action space
         AGVs = {Shelf Locations, Goal Locations}
         Action Space (The Picker Robots) = {Goal and Shelf Locations}
 
+
+
+
+
 #### 2D Layout of the Warehouse
 <img width="619" alt="Screenshot 2025-05-15 at 11 14 55 PM" src="https://github.com/user-attachments/assets/0be3cb27-c881-44e2-8e23-81ce9a19dbed" />
 
