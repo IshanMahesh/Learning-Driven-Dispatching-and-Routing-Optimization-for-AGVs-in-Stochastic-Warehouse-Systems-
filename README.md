@@ -5,6 +5,7 @@ ENPM692 FINAL PROJECT
 ### ACTION SPACE 
 
 In this simulation our robots are having following discrete action space
+       
         AGVs = {Shelf Locations, Goal Locations}
         Action Space (The Picker Robots) = {Goal and Shelf Locations}
 
